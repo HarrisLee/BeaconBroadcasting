@@ -30,7 +30,7 @@
     beaconRegion = [[CLBeaconRegion alloc] initWithProximityUUID:uuid
                                                            major:1
                                                            minor:1
-                                                      identifier:@"com.victorchee.beaconbroadcasting"];
+                                                      identifier:@"com.victorchee.beacon"];
 }
 
 - (void)didReceiveMemoryWarning
