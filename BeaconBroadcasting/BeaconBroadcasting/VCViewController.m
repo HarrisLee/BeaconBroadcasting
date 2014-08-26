@@ -41,9 +41,11 @@
 
 - (IBAction)broadcast:(UIButton *)sender {
     beaconData = [beaconRegion peripheralDataWithMeasuredPower:nil];
-    peripheralManager = [[CBPeripheralManager alloc] initWithDelegate:self
-                                                                queue:nil
-                                                              options:nil];
+    if (!peripheralManager) {
+        peripheralManager = [[CBPeripheralManager alloc] initWithDelegate:self
+                                                                    queue:nil
+                                                                  options:nil];
+    }
 }
 
 #pragma mark - CBPeripheralManagerDelegate
