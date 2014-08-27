@@ -31,6 +31,7 @@
                                                            major:1
                                                            minor:1
                                                       identifier:@"com.victorchee.beacon"];
+    
 }
 
 - (void)didReceiveMemoryWarning

@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3EF2341C-912D-45E9-B353-82577C3EA011</string>
+	<string>BC6B2856-EB99-4132-86F3-FE7F32A7755E</string>
 	<key>IDESourceControlProjectName</key>
 	<string>BeaconBroadcasting</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>13FC3F86-693F-455D-A748-ECE8559FA402</key>
-		<string>https://github.com/victorchee/BeaconBroadcasting.git</string>
+		<key>B53170D4-2228-4DE3-948C-5F9F773CEC23</key>
+		<string>https://github.com/HarrisLee/BeaconBroadcasting.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>BeaconBroadcasting/BeaconBroadcasting.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>13FC3F86-693F-455D-A748-ECE8559FA402</key>
+		<key>B53170D4-2228-4DE3-948C-5F9F773CEC23</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/victorchee/BeaconBroadcasting.git</string>
+	<string>https://github.com/HarrisLee/BeaconBroadcasting.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>13FC3F86-693F-455D-A748-ECE8559FA402</string>
+	<string>B53170D4-2228-4DE3-948C-5F9F773CEC23</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>13FC3F86-693F-455D-A748-ECE8559FA402</string>
+			<string>B53170D4-2228-4DE3-948C-5F9F773CEC23</string>
 			<key>IDESourceControlWCCName</key>
 			<string>BeaconBroadcasting</string>
 		</dict>
